@@ -1,5 +1,5 @@
 •	Readology is a collaborative filtering based Book Recommendation System built using Python libraries like
-Pandas, Numpy and Scikit-Learn.(Link)
+Pandas, Numpy and Scikit-Learn.
 •	The project was built using a dataset containing a list of more than 240000 books which were then filtered on certain parameters for efficient processing.
 •	Processed a large dataset, handled missing data, and optimized performance using pivot tables and cosine similarity.
 
